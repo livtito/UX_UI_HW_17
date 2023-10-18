@@ -1,0 +1,106 @@
+body{
+    font-family: 'Libre Franklin', sans-serif;
+    /* font-family: 'Sanchez', serif; */
+    padding: 0;
+    margin: 0;
+}
+
+.inline-block{
+    display:inline-block;
+    vertical-align: top;
+    padding-right: 60px;
+}
+
+.navigation{
+    padding-top:50px;
+}
+
+.logo{
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+.logo img{
+    height: 80px;
+    margin-left: 130px;
+}
+
+nav{
+    width: 50%;
+    padding: 1%;
+    float: right;
+}
+
+ul{
+    width: 60%;
+    margin-left: auto;
+}
+
+.heroimg{
+    height: 600px;
+    padding: 25px;
+}
+
+.content img{
+    height: 550px;
+    border: 1px solid grey;
+    margin-left: 240px;
+}
+
+.content{
+    width: 75%;
+    margin: 0 auto;
+
+}
+
+.blurb{
+    width: 50%;
+    float:left;
+}
+
+.greeting{
+    font-size: 50px;
+}
+
+.blurb p{
+    font-size: 40px;
+    line-height: 55px;
+}
+
+.bold{
+    font-weight: bold !important;
+
+}
+
+button{
+    padding: 30px 60px;
+    float:right;
+    border: none;
+    color:white;
+    background-color:#272727;
+    border-radius: 200px;
+    font-family: 'Montserrat', sans-serif;
+    font-size:20px;
+}
+
+.best-project{
+    height:600px;
+    background-color: #F4F4F4;
+}
+
+
+
+
+footer{
+    background-color: #373738;
+    height: 200px;
+}
+
+ul li{
+    padding: 10px;
+}
+
+footer li{
+    color: white;
+}
